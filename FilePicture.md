@@ -1,4 +1,4 @@
-https://gitlocalize.com/repo/5269/whole_project/badge.svg
+[url=https://gitlocalize.com/repo/5269/whole_project?utm_source=badge][img]https://gitlocalize.com/repo/5269/whole_project /badge.svg[/img][/url]
 
 Firsуыеаыt Header  | Second Header
 ------------- | -------------
